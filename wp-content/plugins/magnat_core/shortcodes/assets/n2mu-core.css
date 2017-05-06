@@ -1,0 +1,55 @@
+/* Visual composer icons */
+.magnat_heading.vc_element-icon {
+	background-image: url("./img/heading.png");
+	background-position:0 0 !important;
+}
+
+.magnat_button.vc_element-icon {
+	background-image: url("./img/button.png");
+	background-position:0 0 !important;
+}
+
+.magnat_portfolio.vc_element-icon {
+	background-image: url("./img/portfolio.png");
+	background-position:0 0 !important;
+}
+
+.magnat_icon.vc_element-icon {
+	background-image: url("./img/iconbox.png");
+	background-position:0 0 !important;
+}
+
+.magnat_counter.vc_element-icon {
+	background-image: url("./img/counter.png");
+	background-position:0 0 !important;
+}
+
+.magnat_testimonials.vc_element-icon {
+	background-image: url("./img/testimonial.png");
+	background-position:0 0 !important;
+}
+
+.magnat_clients.vc_element-icon {
+	background-image: url("./img/client.png");
+	background-position:0 0 !important;
+}
+
+.magnat_client.vc_element-icon {
+	background-image: url("./img/client.png");
+	background-position:0 0 !important;
+}
+
+.magnat_actionbox.vc_element-icon {
+	background-image: url("./img/actionbox.png");
+	background-position:0 0 !important;
+}
+
+.magnat_googlemaps.vc_element-icon {
+	background-image: url("./img/map.png");
+	background-position:0 0 !important;
+}
+
+.magnat_person.vc_element-icon {
+	background-image: url("./img/person.png");
+	background-position:0 0 !important;
+}

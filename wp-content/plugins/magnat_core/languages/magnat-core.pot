@@ -1,0 +1,641 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Magnat core\n"
+"POT-Creation-Date: 2017-04-14 10:55+0200\n"
+"PO-Revision-Date: 2017-04-14 10:55+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: magnat_core.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: extensions/extensions/metaboxes/extension_metaboxes.php:797
+msgid "Options"
+msgstr ""
+
+#: extensions/extensions/metaboxes/extension_metaboxes.php:965
+msgid "Settings Imported!"
+msgstr ""
+
+#: extensions/extensions/metaboxes/extension_metaboxes.php:968
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: extensions/extensions/metaboxes/extension_metaboxes.php:973
+#: extensions/extensions/metaboxes/extension_metaboxes.php:1268
+msgid "error(s) were found!"
+msgstr ""
+
+#: extensions/extensions/metaboxes/extension_metaboxes.php:978
+msgid "warning(s) were found!"
+msgstr ""
+
+#: extensions/extensions/metaboxes/extension_metaboxes.php:983
+msgid "Expand"
+msgstr ""
+
+#: extensions/extensions/metaboxes/extension_metaboxes.php:1274
+msgid "warnings(s) were found!"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/extension_wbc_importer.php:236
+msgid "Demo Already Imported"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/extension_wbc_importer.php:262
+#: extensions/extensions/wbc_importer/extension_wbc_importer.php:264
+msgid "Demo Importer"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/extension_wbc_importer.php:269
+msgid "Works best to import on a new install of WordPress"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/parsers.php:42
+#: extensions/extensions/wbc_importer/inc/importer/parsers.php:72
+#: extensions/extensions/wbc_importer/inc/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/parsers.php:84
+#: extensions/extensions/wbc_importer/inc/importer/parsers.php:89
+#: extensions/extensions/wbc_importer/inc/importer/parsers.php:279
+#: extensions/extensions/wbc_importer/inc/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/radium-importer.php:256
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/radium-importer.php:331
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/radium-importer.php:405
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/radium-importer.php:427
+msgid "Site does not support widget"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/radium-importer.php:450
+msgid "Widget already exists"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/radium-importer.php:499
+#: extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:116
+msgid "Imported"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/radium-importer.php:502
+msgid "Imported to Inactive"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/radium-importer.php:509
+msgid "No Title"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:134
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:143
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:194
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:198
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:511
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:93
+#: extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+msgid "Import Demo"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:97
+msgid "Demo Imported"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+#: extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:117
+msgid "Please Wait..."
+msgstr ""
+
+#: extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:118
+msgid "Re-Import"
+msgstr ""
+
+#: extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:127
+msgid "No Demo Data Provided"
+msgstr ""
+
+#: functions/post_types.php:8
+msgid "Portfolio"
+msgstr ""
+
+#: functions/post_types.php:9
+msgid "Portfolio Item"
+msgstr ""
+
+#: functions/post_types.php:10
+msgid "Add Portfolio Item"
+msgstr ""
+
+#: functions/post_types.php:13
+msgid "portfolio-item"
+msgstr ""
+
+#: functions/post_types.php:24
+msgid "Portfolio Categories"
+msgstr ""
+
+#: functions/post_types.php:25
+msgid "Portfolio Category"
+msgstr ""
+
+#: functions/post_types.php:26
+msgid "portfolio_category"
+msgstr ""
+
+#: functions/post_types.php:40
+msgid "Testimonials"
+msgstr ""
+
+#: functions/post_types.php:41
+msgid "Testimonial"
+msgstr ""
+
+#: functions/post_types.php:42
+msgid "Add Testimonial"
+msgstr ""
+
+#: functions/post_types.php:59
+msgid "Categories"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:153
+msgid "Clients slider"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:163
+#: shortcodes/map/magnat_testimonials.php:143
+msgid "Slider Navigation"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:166
+#: shortcodes/map/magnat_testimonials.php:146
+msgid "None"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:167
+#: shortcodes/map/magnat_testimonials.php:147
+msgid "Arrows"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:168
+#: shortcodes/map/magnat_testimonials.php:148
+msgid "Dots"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:169
+#: shortcodes/map/magnat_testimonials.php:149
+msgid "Both"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:174
+#: shortcodes/map/magnat_testimonials.php:154
+msgid "Animation effect"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:177
+#: shortcodes/map/magnat_testimonials.php:157
+msgid "Slide"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:178
+#: shortcodes/map/magnat_testimonials.php:158
+msgid "Fade"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:179
+#: shortcodes/map/magnat_testimonials.php:159
+msgid "backSlide"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:180
+#: shortcodes/map/magnat_testimonials.php:160
+msgid "goDown"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:181
+#: shortcodes/map/magnat_testimonials.php:161
+msgid "Fade from bottom"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:185
+#: shortcodes/map/magnat_testimonials.php:165
+msgid "Autoplay slider?"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:188 shortcodes/map/magnat_clients.php:195
+#: shortcodes/map/magnat_clients.php:250 shortcodes/map/magnat_clients.php:268
+#: shortcodes/map/magnat_portfolio.php:152
+#: shortcodes/map/magnat_testimonials.php:168
+#: shortcodes/map/magnat_testimonials.php:175
+msgid "Yes"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:192
+#: shortcodes/map/magnat_testimonials.php:172
+msgid "Autoheight slider?"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:199
+#: shortcodes/map/magnat_testimonials.php:179
+msgid "Autoplay speed"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:202
+#: shortcodes/map/magnat_testimonials.php:182
+msgid "Autoplay speed in miliseconds. Default: 5000"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:210
+#: shortcodes/map/magnat_testimonials.php:190
+msgid "Navigation slide speed"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:213
+#: shortcodes/map/magnat_testimonials.php:193
+msgid "Slide speed in miliseconds. Default: 600"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:217
+msgid "Color version"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:220
+#: shortcodes/map/magnat_testimonials.php:200
+msgid "Dark"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:221
+#: shortcodes/map/magnat_testimonials.php:201
+msgid "White"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:225
+#: shortcodes/map/magnat_portfolio.php:178
+#: shortcodes/map/magnat_testimonials.php:205
+msgid "Extra class name"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:227
+#: shortcodes/map/magnat_portfolio.php:180
+#: shortcodes/map/magnat_testimonials.php:207
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:235
+msgid "Client"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:243
+msgid "Client logo"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:248
+msgid "Add link to image?"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:254
+msgid "Link url"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:259
+msgid "Link title"
+msgstr ""
+
+#: shortcodes/map/magnat_clients.php:265
+msgid "Open link in new window?"
+msgstr ""
+
+#: shortcodes/map/magnat_portfolio.php:63
+msgid "All"
+msgstr ""
+
+#: shortcodes/map/magnat_portfolio.php:133
+msgid "Portfolio Grid"
+msgstr ""
+
+#: shortcodes/map/magnat_portfolio.php:141
+msgid "Columns"
+msgstr ""
+
+#: shortcodes/map/magnat_portfolio.php:145
+msgid "How many columns you want your items displayed in."
+msgstr ""
+
+#: shortcodes/map/magnat_portfolio.php:150
+msgid "Enable Filter Links"
+msgstr ""
+
+#: shortcodes/map/magnat_portfolio.php:153
+msgid "Set to Yes if you want Category Filter Links above your grid"
+msgstr ""
+
+#: shortcodes/map/magnat_portfolio.php:158
+msgid "Label text for ALL"
+msgstr ""
+
+#: shortcodes/map/magnat_portfolio.php:160
+msgid "Type text that be displayed for ALL label. Leave empty for ALL label."
+msgstr ""
+
+#: shortcodes/map/magnat_portfolio.php:169
+msgid "Item Spacing"
+msgstr ""
+
+#: shortcodes/map/magnat_portfolio.php:173
+msgid "Pick a spacing between the items in the grid"
+msgstr ""
+
+#: shortcodes/map/magnat_portfolio.php:185
+msgid "Total Items Limit"
+msgstr ""
+
+#: shortcodes/map/magnat_portfolio.php:188
+msgid "How many items you want to limit your grid to"
+msgstr ""
+
+#: shortcodes/map/magnat_portfolio.php:193
+msgid "Category Name Filter (slug)"
+msgstr ""
+
+#: shortcodes/map/magnat_portfolio.php:196
+msgid ""
+"Filter only a certain Category from your portfolio (comma-separated ' , ')"
+msgstr ""
+
+#: shortcodes/map/magnat_portfolio.php:201
+msgid "Order By"
+msgstr ""
+
+#: shortcodes/map/magnat_portfolio.php:205
+msgid "Order results by a certain field."
+msgstr ""
+
+#: shortcodes/map/magnat_portfolio.php:210
+msgid "Order"
+msgstr ""
+
+#: shortcodes/map/magnat_portfolio.php:213
+msgid "Order results in a Descending or Ascending order."
+msgstr ""
+
+#: shortcodes/map/magnat_portfolio.php:218
+msgid "Hover Effect"
+msgstr ""
+
+#: shortcodes/map/magnat_portfolio.php:224
+msgid "Pick a hover Effect"
+msgstr ""
+
+#: shortcodes/map/magnat_testimonials.php:135
+msgid "Testimonials carousel"
+msgstr ""
+
+#: shortcodes/map/magnat_testimonials.php:197
+msgid "Testimonial color version"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Magnat core"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://magnat.n2mu.studio"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Core plugin for Magnat theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "N2mu"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://n2mu.studio"
+msgstr ""

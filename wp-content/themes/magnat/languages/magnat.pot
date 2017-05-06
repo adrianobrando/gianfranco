@@ -1,0 +1,1840 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Magnat\n"
+"POT-Creation-Date: 2017-04-14 11:46+0200\n"
+"PO-Revision-Date: 2017-04-14 11:46+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:5 framework/theme_options/theme_options_config.php:1615
+#: framework/theme_options/theme_options_config.php:1616
+msgid "404"
+msgstr ""
+
+#: 404.php:6 framework/theme_options/theme_options_config.php:1622
+#: framework/theme_options/theme_options_config.php:1623
+msgid "Ooops..."
+msgstr ""
+
+#: 404.php:7 framework/theme_options/theme_options_config.php:1629
+#: framework/theme_options/theme_options_config.php:1630
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr ""
+
+#: 404.php:8 framework/theme_options/theme_options_config.php:1636
+#: framework/theme_options/theme_options_config.php:1637
+msgid "Please check entered address and try again or back to"
+msgstr ""
+
+#: 404.php:9 framework/theme_options/theme_options_config.php:1644
+msgid "Homepage"
+msgstr ""
+
+#: comments.php:7 framework/theme_options/theme_options_config.php:1788
+#: framework/theme_options/theme_options_config.php:1789
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:8 framework/theme_options/theme_options_config.php:1795
+#: framework/theme_options/theme_options_config.php:1796
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:9 framework/theme_options/theme_options_config.php:1802
+#: framework/theme_options/theme_options_config.php:1803
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:10 framework/theme_options/theme_options_config.php:1781
+#: framework/theme_options/theme_options_config.php:1809
+#: framework/theme_options/theme_options_config.php:1810
+msgid "Comments"
+msgstr ""
+
+#: comments.php:11 framework/theme_options/theme_options_config.php:1816
+#: framework/theme_options/theme_options_config.php:1817
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:12 framework/theme_options/theme_options_config.php:1823
+#: framework/theme_options/theme_options_config.php:1824
+msgid "Leave A Comment"
+msgstr ""
+
+#: comments.php:13 framework/theme_options/theme_options_config.php:1830
+#: framework/theme_options/theme_options_config.php:1831
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:14 framework/theme_options/theme_options_config.php:1837
+#: framework/theme_options/theme_options_config.php:1838
+msgid "Log out"
+msgstr ""
+
+#: comments.php:15 framework/theme_options/theme_options_config.php:1844
+#: framework/theme_options/theme_options_config.php:1845
+msgid "Comment"
+msgstr ""
+
+#: comments.php:16 framework/theme_options/theme_options_config.php:1851
+#: framework/theme_options/theme_options_config.php:1852
+msgid "Name"
+msgstr ""
+
+#: comments.php:17 framework/functions/widgets.php:182
+#: framework/theme_options/theme_options_config.php:1858
+#: framework/theme_options/theme_options_config.php:1859
+msgid "Email"
+msgstr ""
+
+#: comments.php:18 framework/theme_options/theme_options_config.php:1865
+#: framework/theme_options/theme_options_config.php:1866
+msgid "Website"
+msgstr ""
+
+#: framework/framework.php:166
+msgid "Home"
+msgstr ""
+
+#: framework/framework.php:232 framework/functions/page.php:40
+#: framework/functions/page.php:80
+msgid "Tag"
+msgstr ""
+
+#: framework/framework.php:233
+msgid "404 - Page not Found"
+msgstr ""
+
+#: framework/framework.php:234
+msgid "Search"
+msgstr ""
+
+#: framework/framework.php:266
+msgid "Edit"
+msgstr ""
+
+#: framework/framework.php:278
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: framework/framework.php:284
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/framework.php:325
+msgid "Previous"
+msgstr ""
+
+#: framework/framework.php:335
+msgid "Next"
+msgstr ""
+
+#: framework/functions/header.php:257
+msgid "Search..."
+msgstr ""
+
+#: framework/functions/page.php:27 framework/functions/page.php:73
+msgid "404 - Page Not Found"
+msgstr ""
+
+#: framework/functions/page.php:45 framework/functions/page.php:85
+msgid "Search results for:"
+msgstr ""
+
+#: framework/functions/widgets.php:75
+msgid "Widget Title"
+msgstr ""
+
+#: framework/functions/widgets.php:81
+msgid "How many posts? (Number)"
+msgstr ""
+
+#: framework/functions/widgets.php:162
+msgid "Title"
+msgstr ""
+
+#: framework/functions/widgets.php:166
+msgid "Address"
+msgstr ""
+
+#: framework/functions/widgets.php:170
+msgid "Phone"
+msgstr ""
+
+#: framework/functions/widgets.php:174
+msgid "Mobile phone"
+msgstr ""
+
+#: framework/functions/widgets.php:178
+msgid "Fax"
+msgstr ""
+
+#: framework/functions/widgets.php:186
+msgid "Web"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:147
+#: framework/theme_options/theme_options_config.php:148
+msgid "Magnat Theme"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:248
+msgid "Documentation"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:254
+msgid "Support"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:266
+msgid "General"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:268
+msgid "Basic options"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:274
+#: framework/theme_options/theme_options_metaboxes.php:55
+msgid "Logo"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:278
+msgid "Adjust your logo settings"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:284
+msgid "Upload Favicon"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:289
+#: framework/theme_options/theme_options_metaboxes.php:68
+msgid "Logo type"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:290
+#: framework/theme_options/theme_options_metaboxes.php:69
+msgid "Image / text / disabled"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:302
+#: framework/theme_options/theme_options_metaboxes.php:82
+msgid "Upload logo image"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:320
+#: framework/theme_options/theme_options_metaboxes.php:111
+msgid "Upload logo image for sticky version (optional)"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:328
+msgid "Upload logo image for mobile version"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:335
+#: framework/theme_options/theme_options_metaboxes.php:134
+msgid "Adjust logo height"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:336
+msgid "Set logo height. Logo width will be automaticly calculated."
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:337
+msgid "Default: 28"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:348
+#: framework/theme_options/theme_options_metaboxes.php:150
+msgid "Text for logo"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:349
+#: framework/theme_options/theme_options_metaboxes.php:151
+msgid "This text will be displayed in logo section"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:356
+msgid "Page preloader"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:357
+msgid "Turn on if you want to display page loader when page is loading"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:364
+msgid "Background"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:368
+msgid "Add background to your site"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:373
+#: framework/theme_options/theme_options_metaboxes.php:25
+msgid "Page background"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:374
+#: framework/theme_options/theme_options_config.php:1288
+#: framework/theme_options/theme_options_metaboxes.php:321
+msgid "You can override this option on every page"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:381
+#: framework/theme_options/theme_options_metaboxes.php:162
+msgid "Header"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:383
+msgid "Header Options"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:389
+#: framework/theme_options/theme_options_config.php:397
+#: framework/theme_options/theme_options_metaboxes.php:175
+msgid "Header layout"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:398
+#: framework/theme_options/theme_options_metaboxes.php:176
+msgid "Choose your header layout"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:416
+#: framework/theme_options/theme_options_metaboxes.php:195
+msgid "Height of Header Top section"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:417
+#: framework/theme_options/theme_options_metaboxes.php:196
+msgid "Works only when header has top header section"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:418
+#: framework/theme_options/theme_options_config.php:442
+#: framework/theme_options/theme_options_metaboxes.php:198
+#: framework/theme_options/theme_options_metaboxes.php:224
+msgid "Min: 30, max: 300, default value: 50"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:428
+#: framework/theme_options/theme_options_metaboxes.php:208
+msgid "Height of Header Middle section"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:429
+#: framework/theme_options/theme_options_metaboxes.php:209
+msgid "Works only when header has middle header section"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:430
+#: framework/theme_options/theme_options_metaboxes.php:211
+msgid "Min: 30, max: 300, default value: 100"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:440
+#: framework/theme_options/theme_options_metaboxes.php:221
+msgid "Height of Header Bottom section"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:441
+#: framework/theme_options/theme_options_metaboxes.php:222
+msgid "Works only when header has bottom header section"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:453
+msgid "Mobile Header"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:461
+msgid "Height of Mobile Header"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:462
+msgid "Min: 50, max: 250, default value: 75"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:472
+msgid "When you want Mobile Header active"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:473
+msgid "Choose when you want mobile header. Select screen width value."
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:474
+msgid "Min: 400, max: 1300, default value: 1000"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:485
+msgid "Header tools"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:493
+msgid "Search in header"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:494
+msgid "Display search in header"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:500
+msgid "Cart in header"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:501
+msgid "Display cart in header. Works only with WooCommerce enabled"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:508
+msgid "Header sticky"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:516
+msgid "Sticky header on desktop version"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:517
+msgid "Turn on to enable sticky header"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:524
+msgid "Footer"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:526
+msgid "Adjust settings for footer"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:531
+msgid "Footer Columns (Widget Areas)"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:532
+msgid ""
+"How Many columns you want your footer split into. Select disable to disable "
+"top footer"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:545
+msgid "Enable / disable borders between widget areas in footer"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:546
+msgid "Turn off if you want to disable this"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:552
+msgid "Bottom footer enabled"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:553
+msgid "Turn off if you want to disable bottom footer"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:559
+msgid "Copyrights text"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:560
+msgid "Copyrights text in footer"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:578
+msgid "Padding for top footer"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:600
+msgid "Padding for bottom footer"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:610
+msgid "Footer image background"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:611
+msgid ""
+"If you want only color for background, leave this empty and go to \"Colors\" "
+"section"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:619
+msgid "Colors"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:621
+msgid "Adjust colors for theme"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:627
+msgid "Main theme color"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:628
+msgid "Used for accent color"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:635
+msgid "Buttons color"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:636
+#: framework/theme_options/theme_options_config.php:644
+#: framework/theme_options/theme_options_config.php:652
+#: framework/theme_options/theme_options_config.php:660
+msgid "Used for many buttons"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:643
+msgid "Buttons font color"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:651
+msgid "Buttons color on hover"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:659
+msgid "Buttons font color on hover"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:667
+msgid "Typography styling"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:673
+msgid "Body text color"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:680
+msgid "H1 text color"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:687
+msgid "h2 text color"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:694
+msgid "h3 text color"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:701
+msgid "h4 text color"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:708
+msgid "h5 text color"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:715
+msgid "h6 text color"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:722
+msgid "Page heading title text color"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:729
+msgid "Page heading subtitle text color"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:736
+msgid "Links Color"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:737
+msgid "Select color for links"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:753
+msgid "Header styling"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:759
+msgid "Top menu link colors"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:760
+msgid "Select color for top menu links"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:771
+msgid "Middle menu link colors"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:772
+msgid "Select color for middle menu links (Main menu)"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:783
+msgid "Bottom menu link colors"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:784
+msgid "Select color for bottom menu links"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:795
+msgid "Submenu link colors"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:796
+msgid "Select color for submenu links"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:807
+msgid "Mobile menu link colors"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:814
+msgid "Text color for top header"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:821
+msgid "Background color for top header"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:828
+msgid "Background color for middle header"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:835
+msgid "Background color for bottom header"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:842
+msgid "Background color for sub-menu"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:854
+msgid "Background color for sub-menu on hover"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:871
+msgid "Footer styling"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:877
+msgid "Footer top headings colors (h1, h2...)"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:884
+msgid "Footer top text colors"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:891
+msgid "Footer top link colors"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:902
+msgid "Background color for top footer"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:909
+msgid "Border color between widgets in footer"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:921
+msgid "Footer bottom headings colors (h1, h2...)"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:928
+msgid "Footer bottom text colors"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:935
+msgid "Footer bottom link colors"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:946
+msgid "Background color for bottom footer"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:958
+msgid "Elements styling"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:964
+msgid "Background color for portfolio listing overlay"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:983
+msgid "Typography"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:991
+msgid "Body font"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1011
+msgid "Select your body font"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1023
+msgid "H1 font"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1029
+msgid "Select your H1 font"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1041
+msgid "H2 font"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1048
+msgid "Select your H2 font"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1060
+msgid "H3 font"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1067
+msgid "Select your H3 font"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1079
+msgid "H4 font"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1086
+msgid "Select your H4 font"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1098
+msgid "H5 font"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1105
+msgid "Select your H5 font"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1117
+msgid "H6 font"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1124
+msgid "Select your H6 font"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1136
+msgid "Main navigation font (main menu)"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1143
+msgid "Select font for menu navigation (Top level items) in middle menu (main)"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1155
+msgid "Main navigation font (Top menu)"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1162
+msgid "Select font for menu navigation (Top level items) in top menu"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1174
+msgid "Main navigation font (bottom menu)"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1181
+msgid "Select font for menu navigation (Top level items) in bottom menu"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1193
+msgid "Submenu font"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1200
+msgid "Select font for submenu"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1212
+msgid "Page heading title"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1219
+msgid "Select font for page heading Title"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1231
+msgid "Page heading subtitle"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1238
+msgid "Select font for page heading subtitle"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1253
+msgid "Page"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1259
+#: framework/theme_options/theme_options_config.php:1267
+#: framework/theme_options/theme_options_metaboxes.php:235
+#: framework/theme_options/theme_options_metaboxes.php:269
+msgid "Page Heading"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1261
+msgid "Adjust global settings for page heading (at top of page)."
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1268
+#: framework/theme_options/theme_options_metaboxes.php:270
+msgid "Displayed on top of page"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1275
+#: framework/theme_options/theme_options_metaboxes.php:305
+msgid "Page heading style"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1276
+#: framework/theme_options/theme_options_config.php:1361
+#: framework/theme_options/theme_options_config.php:1373
+#: framework/theme_options/theme_options_metaboxes.php:306
+msgid "Choose one"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1287
+#: framework/theme_options/theme_options_metaboxes.php:320
+msgid "Page heading background"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1307
+#: framework/theme_options/theme_options_metaboxes.php:343
+msgid "Padding for page heading"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1308
+#: framework/theme_options/theme_options_metaboxes.php:344
+msgid "Choose how big page heading should be "
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1318
+msgid "Page Options"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1320
+msgid "Adjust global settings for page"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1326
+msgid "Enable comments on pages"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1327
+msgid "Turn on if you want comments on pages"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1341
+msgid "Paddings for pages"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1353
+#: framework/theme_options/theme_options_config.php:1714
+msgid "Blog"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1355
+msgid "Adjust global settings for blog"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1360
+msgid "Blog listing style"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1372
+msgid "Blog listing page img size"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1384
+msgid "Blog listing meta"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1390
+msgid "Display post meta on blog listing page"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1396
+msgid "Display post meta date on blog listing page"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1403
+msgid "Display post meta author on blog listing page"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1410
+msgid "Display post meta categories on blog listing page"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1417
+msgid "Display post meta comments on blog listing page"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1424
+msgid "Display post meta tags on blog listing page"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1431
+msgid "Blog single meta"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1437
+msgid "Display post meta on blog single page"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1443
+msgid "Display post meta date on blog single page"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1450
+msgid "Display post meta author on blog single page"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1457
+msgid "Display post meta categories on blog single page"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1464
+msgid "Display post meta comments on blog single page"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1471
+msgid "Display post meta tags on blog single page"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1483
+msgid "Show Full Post Content"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1484
+msgid ""
+"By default (when OFF) only the excerpt is shown - starting 60 words. If you "
+"set to ON you can still use THE MORE tag to manually set where your content "
+"would be cut off."
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1491
+msgid "Portfolio"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1493
+msgid "Adjust settings for portfolio"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1498
+msgid "Enable Related Projects in Portfolio"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1499
+msgid ""
+"Turn on if you want to display related portfolio on single portfolio page"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1505
+msgid "Type your portfolio page link"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1506
+msgid "Used on single portfolio as link to back to portfolio page (icon)"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1507
+msgid "e.g. portfolio"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1515
+#: framework/theme_options/theme_options_metaboxes.php:516
+#: framework/theme_options/theme_options_metaboxes.php:574
+#: framework/theme_options/theme_options_metaboxes.php:632
+msgid "Sidebar settings"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1520
+msgid "Page Layout"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1521
+#: framework/theme_options/theme_options_config.php:1536
+msgid "You can override this option on each page."
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1522
+#: framework/theme_options/theme_options_config.php:1568
+#: framework/theme_options/theme_options_metaboxes.php:483
+#: framework/theme_options/theme_options_metaboxes.php:541
+#: framework/theme_options/theme_options_metaboxes.php:599
+msgid ""
+"Select main content and sidebar arrangement. Choose between 1, 2 or 3 column "
+"layout."
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1535
+msgid "Post Layout"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1537
+msgid ""
+"Select main content and sidebar arrangement for single post. Choose between "
+"1, 2 or 3 column layout."
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1552
+msgid "Add more sidebars"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1553
+msgid ""
+"Please enter name of sidebar. Make sure there is no white spaces in sidebar "
+"name. E.g. Please use: SidebarName instead of: Sidebar Name (no spaces & it "
+"shouldnt start with a digit)"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1561
+msgid "WooCommerce"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1566
+msgid "Product Layout"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1567
+msgid "You can override this option on each product."
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1583
+msgid "Catalog mode"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1584
+msgid "Turn ON if you want to disable BUY buttons on WooCommerce pages"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1592
+#: framework/theme_options/theme_options_config.php:1600
+msgid "Quick translation"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1594
+msgid ""
+"If you have only one language on your site you can use this options to "
+"translate in quick way most front end strings to your language"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1601
+msgid "Turn ON if you want to use quick translate function."
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1602
+msgid ""
+"If you are using this option normal translation (po, mo files) wont work for "
+"this strings"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1608
+msgid "404 page"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1643
+msgid "Button text: Homepage"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1654
+msgid "Single portfolio page"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1661
+#: framework/theme_options/theme_options_config.php:1662
+#: single-n2mu_portfolio.php:10
+msgid "Project details"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1668
+#: framework/theme_options/theme_options_config.php:1669
+#: single-n2mu_portfolio.php:11
+msgid "Client:"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1675
+#: framework/theme_options/theme_options_config.php:1676
+#: single-n2mu_portfolio.php:12
+msgid "Site URL:"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1682
+#: framework/theme_options/theme_options_config.php:1683
+#: single-n2mu_portfolio.php:13
+msgid "Date:"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1689
+msgid "Button previous portfiolio item: PREV"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1690
+#: single-n2mu_portfolio.php:14
+msgid "PREV"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1696
+msgid "Button next portfiolio item: NEXT"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1697
+#: single-n2mu_portfolio.php:15
+msgid "NEXT"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1703
+#: framework/theme_options/theme_options_config.php:1704
+#: templates/related-portfolio.php:5
+msgid "Related Portfolio Items"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1721
+#: framework/theme_options/theme_options_config.php:1722 search.php:42
+#: templates/blog-listing.php:7
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1728
+msgid "Button: Read more"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1729
+#: templates/blog-listing.php:6
+msgid "Read more"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1735
+#: framework/theme_options/theme_options_config.php:1736
+#: templates/blog-listing.php:8 templates/blog-single-meta.php:6
+msgid "No comments yet"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1742
+msgid "One comment: 1 comment"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1743
+#: templates/blog-listing.php:9 templates/blog-single-meta.php:7
+msgid "1 comment"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1749
+msgid "More comments: comments"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1750
+#: templates/blog-listing.php:10 templates/blog-single-meta.php:8
+msgid "comments"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1756
+#: framework/theme_options/theme_options_config.php:1757
+#: templates/blog-listing.php:11 templates/blog-single-meta.php:9
+msgid "Comments are Off"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1763
+#: framework/theme_options/theme_options_config.php:1764
+#: templates/blog-listing.php:12 templates/blog-single-meta.php:10
+msgid "Enter your password to view comments."
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1770
+#: framework/theme_options/theme_options_config.php:1771
+#: templates/blog-listing.php:13 templates/blog-single-meta-tags.php:6
+msgid "Tags:"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1873
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1880
+msgid "CSS Code"
+msgstr ""
+
+#: framework/theme_options/theme_options_config.php:1881
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:12
+msgid "Global Settings"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:18
+msgid "Custom Page background settings"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:19
+#: framework/theme_options/theme_options_metaboxes.php:62
+#: framework/theme_options/theme_options_metaboxes.php:169
+#: framework/theme_options/theme_options_metaboxes.php:263
+#: framework/theme_options/theme_options_metaboxes.php:478
+#: framework/theme_options/theme_options_metaboxes.php:536
+#: framework/theme_options/theme_options_metaboxes.php:594
+msgid "Turn on if you want to override settings from theme options."
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:26
+msgid "This settings will override theme options"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:32
+msgid "Disable header for this page"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:33
+msgid "Turn on if you want to hide header for this page."
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:39
+msgid "Disable footer for this page"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:40
+msgid "Turn on if you want to hide footer for this page."
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:46
+msgid "Enable one page mode"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:47
+msgid "Links with # will be smooth scrolled"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:61
+msgid "Custom Logo settings"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:123
+msgid "Upload logo image for mobile version (optional)"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:135
+msgid "Logo width will be automaticly calculated."
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:136
+msgid "Default: 45"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:168
+msgid "Custom Header settings"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:241
+msgid "Page title"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:242
+msgid "Leave empty if you want to display page title"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:248
+msgid "Page subtitle"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:249
+msgid "Leave empty if you dont want to use this"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:255
+msgid "Disable page heading title"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:256
+msgid ""
+"Turn ON if you want to disable page heading title (you want only image on "
+"top without text)"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:262
+msgid "Custom Page Heading settings"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:277
+msgid "Page heading title color"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:278
+#: framework/theme_options/theme_options_metaboxes.php:290
+msgid "Leave empty if you want to use color from theme options"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:289
+msgid "Page heading subtitle color"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:355
+msgid "Page Settings"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:374
+msgid "Client name"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:380
+msgid "Client url"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:386
+msgid "Client position"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:394
+msgid "Testimonial Settings"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:413
+msgid "Portfolio featured image"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:414
+msgid ""
+"Turn off to disable featured image on top of page (e.g. you want to use "
+"visual composer)"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:420
+msgid "Portfolio details"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:421
+msgid "Turn off to disable project details"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:427
+msgid "Project name"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:434
+msgid "URL"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:441
+msgid "Date"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:448
+msgid "Description"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:457
+msgid "Portfolio Settings"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:477
+#: framework/theme_options/theme_options_metaboxes.php:535
+#: framework/theme_options/theme_options_metaboxes.php:593
+msgid "Custom sidebar settings"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:482
+#: framework/theme_options/theme_options_metaboxes.php:540
+#: framework/theme_options/theme_options_metaboxes.php:598
+msgid "Layout"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:498
+#: framework/theme_options/theme_options_metaboxes.php:556
+#: framework/theme_options/theme_options_metaboxes.php:614
+msgid "Sidebar Left"
+msgstr ""
+
+#: framework/theme_options/theme_options_metaboxes.php:506
+#: framework/theme_options/theme_options_metaboxes.php:564
+#: framework/theme_options/theme_options_metaboxes.php:622
+msgid "Sidebar Right"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: includes/ext/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: includes/ext/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: includes/ext/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/ext/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/ext/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/ext/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/ext/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/ext/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/ext/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/ext/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/ext/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/ext/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:393
+#: includes/ext/class-tgm-plugin-activation.php:912
+#: includes/ext/class-tgm-plugin-activation.php:2618
+#: includes/ext/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:394
+#: includes/ext/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:395
+#: includes/ext/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: includes/ext/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/ext/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: includes/ext/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:1019
+#: includes/ext/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:1206
+#: includes/ext/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: includes/ext/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: includes/ext/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: includes/ext/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/ext/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/ext/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/ext/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/ext/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/ext/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/ext/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/ext/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: includes/ext/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/ext/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/ext/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:3594
+#: includes/ext/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:3594
+#: includes/ext/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/ext/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/ext/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/ext/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/ext/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Magnat"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://magnat.n2mu.studio"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A multi-purpose WordPress Theme with WooCommerce"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "n2mu"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.n2mu.studio"
+msgstr ""
