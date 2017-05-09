@@ -323,7 +323,7 @@ n-subheader-inner, .n-subheader-cell {
 }
 
 .logo-img img {
-    height: inherit;
+    height: 80px;
     width: auto;
 }
 
@@ -593,6 +593,7 @@ header .n-header-mobile .menu-arrow {
 
 .header2 .at-bottom {
 	height: 60px;
+	margin-top: 50px;
 }
 
 .header2 .n-menu-wrap > ul > li > a {
