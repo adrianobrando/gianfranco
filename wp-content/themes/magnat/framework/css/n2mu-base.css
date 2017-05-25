@@ -350,6 +350,7 @@ header .n-menu-wrap ul {
 	list-style: none outside;
 	margin-bottom: 0px;
 	padding-left: 0px;
+	text-transform: uppercase;
 }
 
 header .n-menu-wrap ul li {
