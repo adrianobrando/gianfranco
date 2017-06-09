@@ -12,3 +12,8 @@ Version: 1.0.0
 
 All css files are placed in /css/ folder
 */
+
+
+.logo {
+    height: 78px;
+}
