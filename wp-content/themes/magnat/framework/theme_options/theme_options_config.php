@@ -1126,8 +1126,7 @@ if ( !function_exists( 'n2mu_extended_import' ) ) {
                     'font-family' => 'Raleway',
                     'google'      => true,
                     'font-size'   => '13px',
-                    'line-height' => '26px'
-                ),
+                    'line-height' => '26px'                ),
             ),
             array(
                 'id'          => 'typo-menu-top-bottom',

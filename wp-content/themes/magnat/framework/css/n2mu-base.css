@@ -325,6 +325,7 @@ n-subheader-inner, .n-subheader-cell {
 .logo-img img {
     height: 80px;
     width: auto;
+	padding: 5px;
 }
 
 /* 4. Menu

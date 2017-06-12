@@ -17,6 +17,7 @@ if ( ! ( function_exists( 'wp_site_icon' )) OR !has_site_icon() ) {
 	if (n2mu_get_option('favicon-img', 'url')) {?>
 	<link rel="icon" type="image/x-icon" href="<?php echo esc_url(n2mu_get_option('favicon-img', 'url'));?>">		
 <?php }}
+
 wp_head(); 
 ?>
 </head>
