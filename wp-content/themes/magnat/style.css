@@ -26,8 +26,15 @@ All css files are placed in /css/ folder
 
 .btn-group-sm>.btn, .btn-sm {
     border-radius: 18px;
+    margin-top: -27px !important;
 }
+
 
 .textwidget {
     padding-top: 23px;
+}
+
+body .main_buttons .on:not(:first-child):not(:last-child) {
+	border-left: 3px solid #fff;
+	border-right: 3px solid #fff;
 }
